@@ -1,0 +1,29 @@
+body{
+    margin: 2px;
+    background-color: rgb(250, 210, 243);
+}
+.Contactform{
+    margin: auto;
+    width: 500px;
+    background-color: rgb(251, 251, 251);
+    padding: 40px;
+    margin-top:40px ;
+    border: 10px solid black;
+
+}
+.Contactform input,label,textarea{
+    padding: 5px;
+    margin-top: 5px;
+    width: 95%;
+}
+button{
+    padding: 10px;
+    margin-top: 5px;
+    width: 96%;
+    background-color: rgb(55, 13, 95);
+    color: rgb(251, 251, 251);
+
+}
+h1{
+    text-align: center;
+}
